@@ -1,6 +1,6 @@
 # SIUXSA Checklist - Bug Bounty & Pentest Task Manager
 
-![Screenshot](https://raw.githubusercontent.com/siuxsa/Bug_Bounty_Task/refs/heads/main/Screenshot/Screenshot%202025-08-14%20015359.png) *(placeholder for actual screenshot)*
+![Screenshot](https://raw.githubusercontent.com/siuxsa/Bug_Bounty_Task/refs/heads/main/Screenshot/Screenshot%202025-08-14%20015359.png)
 
 A modern, browser-based checklist manager for bug bounty hunters and penetration testers to track tasks across multiple targets.
 
